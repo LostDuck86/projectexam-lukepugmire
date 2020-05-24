@@ -254,6 +254,12 @@ h4 {
     font-size: 2.5em;
     font-family: gugi;
 }
+.shipinfo {
+	color: #909090;
+}
+.shipinfo:hover {
+	color: white;
+}
 /*=======================
 Footer
 =======================*/
